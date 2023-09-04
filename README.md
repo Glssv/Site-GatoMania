@@ -1,8 +1,10 @@
-# <b> Site para estudos | GatoMania </b> 
+# <b> Desafio | Site GatoMania </b> 
 
-O Site GatoMania é um site feito a partir de um desafio do professor Gustavo Guanabara.
+O GatoMania é um site feito a partir de um desafio do professor Gustavo Guanabara.
 
-Esse site o completamente feto apenas com HTML e CSS.
+Esse site é completamente feito apenas com HTML e CSS.
+
+você pode acessar o site *GatoMania* clicando [aqui](https://gatomania.netlify.app/)
 
 ---
 ## Informações sobre o desafio: 
@@ -22,7 +24,7 @@ A proposta do desafio é criar uma página com as seguintes características:
 
 Também se preocupando em garantir que o conteúdo seja responsivo e possa ser visualizado corretamente em dispositivos móveis e telas pequenas. 
 
-#### sendo assim decidi modificar o conteúdo do site, incorporando algo que eu amo: *gatinhos*! 😊 
+sendo assim decidi modificar o conteúdo do site, incorporando algo que eu amo: **gatinhos!** 😊 
 
 ## O que veremos nesse site?
 
